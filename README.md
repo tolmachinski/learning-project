@@ -1,7 +1,7 @@
 # git.project
  php
  
-This project was created only to show the level of knowledge of php.
+This project was created only to show the level of native php.
 
 Description of files:
 
